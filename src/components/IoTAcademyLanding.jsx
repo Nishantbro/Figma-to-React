@@ -586,13 +586,13 @@ export default function IoTAcademyPage() {
 
             <AdmissionProcess />
 
+            <ProgramFeeSection />
+
             <AlumniTestimonials />
 
             <DataScienceLanding />
 
             <FAQSection />
-
-            <ProgramFeeSection />
 
         </div>
     );

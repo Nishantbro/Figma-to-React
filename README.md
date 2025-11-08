@@ -6,7 +6,7 @@ A modern, responsive website for The IoT Academy showcasing their Data Science, 
 
 ## 🚀 Live Demo
 
-[Live Demo Link](https://your-vercel-app.vercel.app) <!-- Replace with your actual Vercel URL -->
+[Live Demo Link](https://figma-to-react-sw6a.vercel.app/) <!-- Replace with your actual Vercel URL -->
 
 ## 📋 Table of Contents
 
@@ -44,5 +44,5 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/iot-academy-website.git
+   git clone https://figma-to-react-sw6a.vercel.app/
    cd iot-academy-website
